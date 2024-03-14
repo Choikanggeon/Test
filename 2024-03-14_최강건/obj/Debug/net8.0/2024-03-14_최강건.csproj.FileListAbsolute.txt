@@ -1,0 +1,4 @@
+C:\Users\KGA\Desktop\2024-03-14_최강건\obj\Debug\net8.0\2024-03-14_최강건.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KGA\Desktop\2024-03-14_최강건\obj\Debug\net8.0\2024-03-14_최강건.AssemblyInfoInputs.cache
+C:\Users\KGA\Desktop\2024-03-14_최강건\obj\Debug\net8.0\2024-03-14_최강건.AssemblyInfo.cs
+C:\Users\KGA\Desktop\2024-03-14_최강건\obj\Debug\net8.0\2024-03-14_최강건.csproj.CoreCompileInputs.cache
